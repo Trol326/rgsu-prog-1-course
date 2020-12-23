@@ -1,2 +1,6 @@
-﻿  laba3-4.c
+﻿  ipz.c
+c:\users\1\documents\серёга\12purec\prjcts\project1\project1\ipz.c(80): warning C4305: =: усечение из "double" в "float"
+c:\users\1\documents\серёга\12purec\prjcts\project1\project1\ipz.c(80): warning C4305: +=: усечение из "double" в "float"
+c:\users\1\documents\серёга\12purec\prjcts\project1\project1\ipz.c(82): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\1\documents\серёга\12purec\prjcts\project1\project1\ipz.c(83): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
   Project1.vcxproj -> C:\Users\1\Documents\серёга\12PureC\prjcts\Project1\Debug\Project1.exe

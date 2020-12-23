@@ -123,8 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ipz.c" />
     <ClCompile Include="Laba1.c" />
     <ClCompile Include="laba3-4.c" />
+    <ClCompile Include="Laba5-6.c" />
+    <ClCompile Include="Laba8.c" />
     <ClCompile Include="PR2.c" />
     <ClCompile Include="Test.c" />
   </ItemGroup>
